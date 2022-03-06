@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+.yaziyiOrtala {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(194, 15, 15);
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: #be8e0a;
+}
+
+li {
+    list-style-position: inside;
+}
+img {
+    width: 300px;
+}
