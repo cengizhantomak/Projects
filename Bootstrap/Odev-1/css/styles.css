@@ -1,0 +1,16 @@
+body {
+    background-color: #E9ECEF ;
+    list-style-position: inside;
+}
+
+h4 , h3 {
+    color: #be8e0a;
+}
+
+.purple {
+    color: purple;
+}
+
+.bgColor {
+    background-color: #E9ECEF;
+}
