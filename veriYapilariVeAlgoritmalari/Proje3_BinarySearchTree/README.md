@@ -103,12 +103,12 @@ Kök 7'dir.
 
 Ve son olarak 2; 7 ve 5'ten küçük ama 1'den büyük. Ayrıca 3'ten küçüktür.
 
-          7
-        /   \
-       5     8
-      / \     \
-     1   6     9  
-    /  \
-   0    3
-       /  \
-      2   4
+           7
+         /   \
+        5     8
+       / \     \
+      1   6     9  
+     /  \
+    0    3
+        /  \
+       2   4
