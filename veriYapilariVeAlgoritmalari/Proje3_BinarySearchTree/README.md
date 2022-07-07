@@ -6,53 +6,53 @@ Proje 3
 
 1. adım
 
-Kök 7'dir.
+     Kök 7'dir.
 
-     7
+      7
 
 2. adım
 
-5; 7'den küçüktür. Yani kökün sol tarafındadır.
+     5; 7'den küçüktür. Yani kökün sol tarafındadır.
 
-     7
-    /   
-   5     
+      7
+     /   
+    5     
 
 3. adım
 
-1, 7 ve 5'ten küçüktür.
+     1, 7 ve 5'ten küçüktür.
 
-       7
-      /   
-     5     
-    /      
-   1        
+        7
+       /   
+      5     
+     /      
+    1        
 
 4. adım
 
-8; 7'den büyüktür. Yani kökün sağ tarafındadır.
+     8; 7'den büyüktür. Yani kökün sağ tarafındadır.
 
-        7
-      /   \
-     5     8
-    /      
-   1    
+         7
+       /   \
+      5     8
+     /      
+    1    
 
 5. adım
 
-3; 7 ve 5'ten küçük ama 1'den büyük.
+     3; 7 ve 5'ten küçük ama 1'den büyük.
 
-        7
-      /   \
-     5     8
-    /      
-   1  
-    \
-     3
+         7
+       /   \
+      5     8
+     /      
+    1  
+     \
+      3
 
 6. adım
 
-6; 7'den küçük ama 5'ten büyüktür.
+     6; 7'den küçük ama 5'ten büyüktür.
 
          7
        /   \
@@ -64,7 +64,7 @@ Kök 7'dir.
 
 7. adım
 
-0; 7, 5 ve 1'den küçüktür.
+     0; 7, 5 ve 1'den küçüktür.
 
            7
          /   \
@@ -76,7 +76,7 @@ Kök 7'dir.
 
 8. adım
 
-9; 7 ve 8'den büyüktür.
+     9; 7 ve 8'den büyüktür.
 
            7
          /   \
@@ -88,7 +88,7 @@ Kök 7'dir.
 
 9. adım
 
-4; 7 ve 5'ten küçük ama 3'ten büyüktür.
+     4; 7 ve 5'ten küçük ama 3'ten büyüktür.
 
            7
          /   \
@@ -102,7 +102,7 @@ Kök 7'dir.
 
 10. Son adım
 
-Ve son olarak 2; 7 ve 5'ten küçük ama 1'den büyük. Ayrıca 3'ten küçüktür.
+     Ve son olarak 2; 7 ve 5'ten küçük ama 1'den büyük. Ayrıca 3'ten küçüktür.
 
            7
          /   \
