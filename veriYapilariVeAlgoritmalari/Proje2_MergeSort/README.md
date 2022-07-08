@@ -6,7 +6,7 @@ Proje 2
 2. Big-O gösterimini yazınız.
 
 
-CEVAP1
+CEVAP 1
 
     1. adım diziyi ikiye böl:
 
@@ -36,7 +36,7 @@ CEVAP1
 
 
 
-CEVAP2
+CEVAP 2
 
     Best case    : O(n*logn)
     Average case : O(n*logn)
